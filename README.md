@@ -26,5 +26,5 @@ Key components include data cleaning, exploratory data analysis, feature enginee
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-prediction.git](https://github.com/jpweideman/PREDICTIVE-ANALYSIS-OF-WEATHER-CONDITIONS-USING-GRADIENT-BOOSTING
+   git clone https://github.com/jpweideman/PREDICTIVE-ANALYSIS-OF-WEATHER-CONDITIONS-USING-GRADIENT-BOOSTING
    
