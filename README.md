@@ -21,6 +21,7 @@ Key components include data cleaning, exploratory data analysis, feature enginee
 - `Data_cleaning.r`: Script for cleaning the dataset and preparing it for analysis.
 - `Exploratory_analysis.r`: Script for conducting exploratory data analysis.
 - `Boosting_model.r`: Script for implementing and optimizing Gradient Boosting models.
+- `Report.pdf`: Report outlining the process and findings of the project
 
 ## Installation
 
